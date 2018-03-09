@@ -1,0 +1,20 @@
+{
+  "name": "reactfest-apollo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "spectacle-scripts": "2.0.0"
+  },
+  "scripts": {
+    "deploy": "npm run build && surge -p build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "surge": "^0.19.0"
+  }
+}
