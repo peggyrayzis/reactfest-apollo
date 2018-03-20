@@ -1,6 +1,7 @@
 # Give Your Data a Boost! 🚀 (ReactFest 2018)
 
-## [Slides](http://reactfest-apollo.surge.sh/#/)
+### [View the slides!](http://reactfest-apollo.surge.sh/#/) 💻
+### [Watch the video!](https://youtu.be/jFULzAMS-jI) 📺
 
 ## Further exploration
 - [Zero-config GraphQL state management, Peggy Rayzis](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
